@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st.image("IMG_2065.jpeg", width=300)
 
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_PhanThiQuynhTram")
